@@ -8,11 +8,11 @@ Building my skills step by step in **Excel, SQL, Power BI, and AI for Analytics*
 
 ## 🚀 Excel Projects
 1. **Day 1 – Sales Data Sorting**  
-   [📂 View File](Excel_Projects/Day1_Sales_Data.xlsx)  
+ 
    *Sorted retail sales dataset by Total Sales (ascending & descending).*  
 
 2. **Day 2 – Sales Analysis (Pivot Table + Chart)**  
-   [📂 View File](Excel_Projects/Day2_Pivot_Sales.xlsx)  
+   [📂 View File](ANOOSHA/EXCEL/DAY1-SALES DATA-XLSX.xlsx)  
    *Created Pivot Table & Chart to analyze product sales performance.*  
 
 ---
