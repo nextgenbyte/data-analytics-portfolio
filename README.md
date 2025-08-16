@@ -12,7 +12,7 @@ Building my skills step by step in **Excel, SQL, Power BI, and AI for Analytics*
    *Sorted retail sales dataset by Total Sales (ascending & descending).*  
 
 2. **Day 2 – Sales Analysis (Pivot Table + Chart)**  
-   [📂 View File](ANOOSHA/EXCEL/DAY1-SALES DATA-XLSX.xlsx)  
+ DAY2-SALES DATA-XLSX (pivot+chart).xlsx
    *Created Pivot Table & Chart to analyze product sales performance.*  
 
 ---
